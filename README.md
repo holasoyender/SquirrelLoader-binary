@@ -1,6 +1,6 @@
 # SquirrelLoader binary
 
-Inyector DLL interno para CS:GO escrito en C++
+Inyector DLL interno para CS:GO escrito en C
 
 # DLL custom
 
