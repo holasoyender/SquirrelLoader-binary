@@ -4,7 +4,7 @@ Inyector DLL interno para CS:GO escrito en C
 
 # DLL custom
 
-Abrir bytes.c y cabiar el array por tu dll en bytes
+Abrir binary.h y cabiar el array por tu dll en bytes
 Compilar como Release x86
 
 # Forma de uso
